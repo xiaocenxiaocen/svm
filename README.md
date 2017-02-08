@@ -1,2 +1,2 @@
 # svm
-optimize smo algorithm
+realize smo
