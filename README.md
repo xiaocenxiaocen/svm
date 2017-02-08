@@ -1,0 +1,2 @@
+# svm
+optimize smo algorithm
